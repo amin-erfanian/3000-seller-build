@@ -1,1 +1,0 @@
-import{_ as s,c as t,o,a,r as n}from"./index-7WUXgcUo.js";const _={},c={class:"main-layout"},r={class:"main-layout__wrapper"},d={class:"main-layout__main"};function l(e,i){return o(),t("div",c,[a("div",r,[a("main",d,[n(e.$slots,"default",{},void 0,!0)])])])}const u=s(_,[["render",l],["__scopeId","data-v-192fb3f2"]]);export{u as default};
