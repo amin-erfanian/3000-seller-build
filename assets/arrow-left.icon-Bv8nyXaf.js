@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,a as s}from"./index-BLFjZtEo.js";const c={},r={xmlns:"http://www.w3.org/2000/svg",width:"24",height:"24",viewBox:"0 0 24 24"},n=s("path",{fill:"currentColor",d:"M14.41 18.16L8.75 12.5l5.66-5.66l.7.71l-4.95 4.95l4.95 4.95z"},null,-1),_=[n];function a(l,i){return o(),t("svg",r,_)}const h=e(c,[["render",a]]);export{h as default};
