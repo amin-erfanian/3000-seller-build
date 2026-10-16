@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a as s}from"./index-CxuTaR_o.js";const c={},r={xmlns:"http://www.w3.org/2000/svg",width:"24",height:"24",viewBox:"0 0 24 24"},n=s("path",{fill:"currentColor","fill-rule":"evenodd",d:"m9.005 4l8 8l-8 8L7 18l6.005-6L7 6z"},null,-1),l=[n];function _(a,i){return t(),o("svg",r,l)}const h=e(c,[["render",_]]);export{h as default};
