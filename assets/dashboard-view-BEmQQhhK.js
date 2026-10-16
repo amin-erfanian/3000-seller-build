@@ -1,0 +1,1 @@
+import{_ as s,c as o,o as a,a as c,p as t,b as d}from"./index-CxuTaR_o.js";const _={},r=e=>(t("data-v-754f7be0"),e=e(),d(),e),n={class:"dashboard scrollable"},p=r(()=>c("div",{class:"dashboard__view"},null,-1)),i=[p];function l(e,h){return a(),o("div",n,i)}const b=s(_,[["render",l],["__scopeId","data-v-754f7be0"]]);export{b as default};
