@@ -1,1 +1,0 @@
-import{_ as s,c as t,o,a,r as c}from"./index-Chr0U0VT.js";const n={},_={class:"main-layout"},d={class:"main-layout__wrapper"},r={class:"main-layout__main"};function l(e,i){return o(),t("div",_,[a("div",d,[a("main",r,[c(e.$slots,"default",{},void 0,!0)])])])}const f=s(n,[["render",l],["__scopeId","data-v-83dcd188"]]);export{f as default};
